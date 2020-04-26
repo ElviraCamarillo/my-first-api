@@ -1,0 +1,28 @@
+{
+    "koders":[
+        {
+            "name" : "pablito",
+            "generation" : "7"
+    },
+    {
+        "name" : "ana",
+        "generation" : "7"
+    }
+],
+    "aMentors":[
+        {
+            "name" : "Charles",
+            "course": "Linux",
+            "generation":7
+            
+    },
+    {
+        "name" : "Israel",
+        "course": "Front-end",
+        "generation": 7
+    }
+]
+}
+
+
+
